@@ -20,7 +20,8 @@ const module: Module<any, any> = {
         }    
 
     }, 
-    //methods -> actions
+    //methods -> actions 
+    //
     actions: {
 
         showSnackbar(context: any, payload) {
